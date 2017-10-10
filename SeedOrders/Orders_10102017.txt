@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+2,ChengThao,IN,1.010106,carpet,700,2.25,2.10
+3,Acme* Inc,OH,1.0625,tile,200,3.50,4.15
+4,Thao* Judy,IN,6.00,carpet,100,2.25,2.10

@@ -1,0 +1,16 @@
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMasteryModels\bin\Debug\FloorMasteryModels.dll
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMasteryModels\bin\Debug\FloorMasteryModels.pdb
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMasteryModels\obj\Debug\FloorMastery.Models.csproj.CoreCompileInputs.cache
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMasteryModels\obj\Debug\FloorMasteryModels.dll
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMasteryModels\obj\Debug\FloorMasteryModels.pdb
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMasteryModels\obj\Debug\FloorMastery.Models.csprojResolveAssemblyReference.cache
+C:\Repos\dotnet-judy-thao\FloorMasteryFix\FloorMasteryModels\bin\Debug\FloorMasteryModels.dll
+C:\Repos\dotnet-judy-thao\FloorMasteryFix\FloorMasteryModels\bin\Debug\FloorMasteryModels.pdb
+C:\Repos\dotnet-judy-thao\FloorMasteryFix\FloorMasteryModels\obj\Debug\FloorMastery.Models.csproj.CoreCompileInputs.cache
+C:\Repos\dotnet-judy-thao\FloorMasteryFix\FloorMasteryModels\obj\Debug\FloorMasteryModels.dll
+C:\Repos\dotnet-judy-thao\FloorMasteryFix\FloorMasteryModels\obj\Debug\FloorMasteryModels.pdb
+C:\Repos\dotnet-judy-thao\FloorMasteryFix\FloorMastery.Models\bin\Debug\FloorMasteryModels.dll
+C:\Repos\dotnet-judy-thao\FloorMasteryFix\FloorMastery.Models\bin\Debug\FloorMasteryModels.pdb
+C:\Repos\dotnet-judy-thao\FloorMasteryFix\FloorMastery.Models\obj\Debug\FloorMastery.Models.csproj.CoreCompileInputs.cache
+C:\Repos\dotnet-judy-thao\FloorMasteryFix\FloorMastery.Models\obj\Debug\FloorMasteryModels.dll
+C:\Repos\dotnet-judy-thao\FloorMasteryFix\FloorMastery.Models\obj\Debug\FloorMasteryModels.pdb

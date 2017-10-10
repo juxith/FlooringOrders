@@ -1,0 +1,15 @@
+C:\Repos\dotnet-judy-thao\FloorMastery\SGBankTest\bin\Debug\SGBankTest.dll.config
+C:\Repos\dotnet-judy-thao\FloorMastery\SGBankTest\bin\Debug\SGBankTest.dll
+C:\Repos\dotnet-judy-thao\FloorMastery\SGBankTest\bin\Debug\SGBankTest.pdb
+C:\Repos\dotnet-judy-thao\FloorMastery\SGBankTest\bin\Debug\ClassLibrary1.dll
+C:\Repos\dotnet-judy-thao\FloorMastery\SGBankTest\bin\Debug\FloorMasteryData.dll
+C:\Repos\dotnet-judy-thao\FloorMastery\SGBankTest\bin\Debug\FloorMasteryModels.dll
+C:\Repos\dotnet-judy-thao\FloorMastery\SGBankTest\bin\Debug\nunit.framework.dll
+C:\Repos\dotnet-judy-thao\FloorMastery\SGBankTest\bin\Debug\ClassLibrary1.pdb
+C:\Repos\dotnet-judy-thao\FloorMastery\SGBankTest\bin\Debug\FloorMasteryData.pdb
+C:\Repos\dotnet-judy-thao\FloorMastery\SGBankTest\bin\Debug\FloorMasteryModels.pdb
+C:\Repos\dotnet-judy-thao\FloorMastery\SGBankTest\bin\Debug\nunit.framework.xml
+C:\Repos\dotnet-judy-thao\FloorMastery\SGBankTest\obj\Debug\SGBankTest.csprojResolveAssemblyReference.cache
+C:\Repos\dotnet-judy-thao\FloorMastery\SGBankTest\obj\Debug\SGBankTest.csproj.CoreCompileInputs.cache
+C:\Repos\dotnet-judy-thao\FloorMastery\SGBankTest\obj\Debug\SGBankTest.dll
+C:\Repos\dotnet-judy-thao\FloorMastery\SGBankTest\obj\Debug\SGBankTest.pdb

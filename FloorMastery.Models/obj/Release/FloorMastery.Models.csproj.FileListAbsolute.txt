@@ -1,0 +1,6 @@
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMasteryModels\bin\Release\FloorMasteryModels.dll
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMasteryModels\bin\Release\FloorMasteryModels.pdb
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMasteryModels\obj\Release\FloorMastery.Models.csprojResolveAssemblyReference.cache
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMasteryModels\obj\Release\FloorMastery.Models.csproj.CoreCompileInputs.cache
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMasteryModels\obj\Release\FloorMasteryModels.dll
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMasteryModels\obj\Release\FloorMasteryModels.pdb

@@ -1,0 +1,14 @@
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery.Test\bin\Release\FloorMastery.Test.dll
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery.Test\bin\Release\FloorMastery.Test.pdb
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery.Test\bin\Release\FloorMastery.BLL.dll
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery.Test\bin\Release\FloorMasteryData.dll
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery.Test\bin\Release\FloorMasteryModels.dll
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery.Test\bin\Release\nunit.framework.dll
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery.Test\bin\Release\FloorMastery.BLL.pdb
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery.Test\bin\Release\FloorMasteryData.pdb
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery.Test\bin\Release\FloorMasteryModels.pdb
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery.Test\bin\Release\nunit.framework.xml
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery.Test\obj\Release\FloorMastery.Test.csprojResolveAssemblyReference.cache
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery.Test\obj\Release\FloorMastery.Test.csproj.CoreCompileInputs.cache
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery.Test\obj\Release\FloorMastery.Test.dll
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery.Test\obj\Release\FloorMastery.Test.pdb

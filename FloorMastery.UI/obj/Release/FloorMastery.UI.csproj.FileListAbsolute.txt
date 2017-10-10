@@ -1,0 +1,13 @@
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery\bin\Release\FloorMastery.exe.config
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery\bin\Release\FloorMastery.exe
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery\bin\Release\FloorMastery.pdb
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery\bin\Release\FloorMastery.BLL.dll
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery\bin\Release\FloorMasteryModels.dll
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery\bin\Release\FloorMasteryData.dll
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery\bin\Release\FloorMastery.BLL.pdb
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery\bin\Release\FloorMasteryModels.pdb
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery\bin\Release\FloorMasteryData.pdb
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery\obj\Release\FloorMastery.UI.csprojResolveAssemblyReference.cache
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery\obj\Release\FloorMastery.UI.csproj.CoreCompileInputs.cache
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery\obj\Release\FloorMastery.exe
+C:\Repos\dotnet-judy-thao\FloorMastery\FloorMastery\obj\Release\FloorMastery.pdb
